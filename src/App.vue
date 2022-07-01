@@ -79,5 +79,6 @@ border-radius: 6px;
 body{
  margin:0;
  height:100%;
+ 
 }
 </style>
