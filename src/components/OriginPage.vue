@@ -4,7 +4,7 @@
       <p class="strangerr text-4xl md:text-5xl lg:text-6xl  font-bold text-center mb-12 pt-12  ">
           Toy Face Origins
       </p>
-      <p class="text-left text-base lg:px-24 md:px-12 px-8">
+      <p class="text-left text-sm md:text-base lg:px-24 md:px-12 px-8">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec 
            fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat 
            lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent auctor purus luctus enim 
@@ -17,7 +17,7 @@
             lacinia. Nam eget mi in purus lobortis eleifend. Sed nec ante dictum sem condimentum ullamcorper quis venenatis nisi. Proin vitae 
              facilisis nisi, ac posuere leo.
         </p>
-        <p class="hidden md:block text-left text-base lg:px-24 px-12 mt-4">
+        <p class="hidden md:block text-left text-sm md:text-base lg:px-24 md:px-12 px-8 mt-4">
 
 
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec 
@@ -32,7 +32,7 @@
              lacinia. Nam eget mi in purus lobortis eleifend. Sed nec ante dictum sem condimentum ullamcorper quis venenatis nisi. Proin vitae 
             facilisis nisi, ac posuere leo.
         </p>
-        <p class="hidden lg:block text-left text-base lg:px-24 px-12 mt-4">
+        <p class="hidden lg:block text-left text-sm md:text-base lg:px-24 md:px-12 px-8 mt-4">
 
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec 
             fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat 
@@ -45,7 +45,7 @@
             lacus, porttitor eu mauris a, blandit ultrices nibh. Mauris sit amet magna non ligula vestibulum eleifend. Nulla varius volutpat turpis sed 
             lacinia. Nam eget mi in purus lobortis eleifend. Sed nec ante dictum sem condimentum ullamcorper quis 
       </p>
-       <p v-if="readMore === true" class="md:hidden text-left text-base lg:px-24 px-12 mt-4 ease-in duration-200">
+       <p v-if="readMore === true" class="md:hidden text-left text-sm md:text-base lg:px-24 md:px-12 px-8 mt-4 ease-in duration-200">
 
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec 
             fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat 
@@ -58,7 +58,7 @@
             lacus, porttitor eu mauris a, blandit ultrices nibh. Mauris sit amet magna non ligula vestibulum eleifend. Nulla varius volutpat turpis sed 
             lacinia. Nam eget mi in purus lobortis eleifend. Sed nec ante dictum sem condimentum ullamcorper quis 
       </p>
-       <p v-if="readMore === true" class="lg:hidden text-left text-base lg:px-24 px-12 mt-4 ease-in duration-200">
+       <p v-if="readMore === true" class="lg:hidden text-left text-sm md:text-base lg:px-24 md:px-12 px-8 mt-4 ease-in duration-200">
 
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec 
             fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat 

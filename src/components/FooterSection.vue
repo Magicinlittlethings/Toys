@@ -2,7 +2,7 @@
   <div class="px-10 pb-24">
       
       <img src="stranger.png" alt="">
-      <p class="my-20 text-center text-base text-gray-200">Join our social communities to keep up with our latest work and announcements</p>
+      <p class="my-20 text-center text-sm md:text-base text-gray-200">Join our social communities to keep up with our latest work and announcements</p>
       <div class="flex justify-center">
         <a href="" class="mx-4 hover:scale-110 ease-in-out duration-300"><img src="Frame 1000002747.svg"></a>
         <a href="" class="mx-4 hover:scale-110 ease-in-out duration-300"><img src="Frame 1000002748.svg"></a>
