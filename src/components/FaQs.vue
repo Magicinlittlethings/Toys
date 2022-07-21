@@ -111,7 +111,7 @@
               </p>
            </button>
       </div>
-      <div class ="flex justify-center mt-10">
+      <div class ="flex justify-center mt-16 lg:mt-10">
         <button class="border rounded-full bg-toygreen border-transparent px-8 md:px-16 lg:px-20 py-2 text-base hover:bg-transparent hover:border-toygreen hover:text-white ease-in-out duration-300">Read More <span class="inline-block"><img src="Icon.svg"></span></button>
       </div>
   </div>
