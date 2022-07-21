@@ -5,7 +5,7 @@
       <div class="grid grid-cols-3 gap-6 mt-20 ">
           <div class="bg-toyblackk py-6 px-3 text-white h-auto my-24 ">
               <p class="text-xl font-semibold mb-5">What are Toyfaces?</p>
-              <p>
+              <p class="text-justify">
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br>
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br>
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br>
@@ -18,7 +18,7 @@
           <div>
            <div class="bg-toyblackk py-6 px-3 text-white  mb-6">
               <p class="text-xl font-semibold mb-5">What are NFTs?</p>
-              <p>
+              <p class="text-justify">
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec 
                    fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat 
                    lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
@@ -26,7 +26,7 @@
            </div>
            <div class="bg-toyblackk py-6 px-3 text-white mt-6">
               <p class="text-xl font-semibold mb-5">What are the benefits?</p>
-              <p>
+              <p class="text-justify">
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec 
                    fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat 
                    lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
@@ -36,7 +36,7 @@
            <div>
            <div class="bg-toyblackk py-6 px-3 text-white mb-6">
               <p class="text-xl font-semibold mb-5">When does minting start?</p>
-              <p>
+              <p class="text-justify">
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec 
                    fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat 
                    lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
@@ -44,7 +44,7 @@
            </div>
            <div class="bg-toyblackk py-6 px-3 text-white mt-6">
               <p class="text-xl font-semibold mb-5">Who can mint?</p>
-              <p>
+              <p class="text-justify">
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec 
                    fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat 
                    lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
@@ -60,7 +60,7 @@
               <p class="text-lg md:text-xl font-semibold  ">What are Toyfaces?</p> 
               <p><fa :class="`${ dropDown === true ?  'antirotation' : 'rotation' }  ml-2 text-base`" icon="chevron-down" /></p>
              </div>
-              <p class="text-sm md:text-base text-left">
+              <p class="text-sm md:text-base text-justify">
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec 
                    fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat 
                    lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
@@ -71,7 +71,7 @@
               <p class="text-lg md:text-xl font-semibold  ">What are NFTs?</p> 
               <p><fa :class="` ${ dropDown1 === true ?  'antirotation' : 'rotation' }  ml-2 text-base`" icon="chevron-down" /></p>
              </div>
-              <p class="text-sm md:text-base text-left">
+              <p class="text-sm md:text-base text-justify">
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec 
                    fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat 
                    lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
@@ -82,7 +82,7 @@
               <p class="text-lg md:text-xl font-semibold  ">What are the benefits?</p> 
               <p><fa :class="` ${ dropDown2 === true ?  'antirotation' : 'rotation' }  ml-2 text-base`" icon="chevron-down" /></p>
              </div>
-              <p class="text-sm md:text-base text-left">
+              <p class="text-sm md:text-base text-justify">
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec 
                    fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat 
                    lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
@@ -93,7 +93,7 @@
               <p class="text-lg md:text-xl font-semibold  ">When does minting start?</p> 
               <p><fa :class="` ${ dropDown3 === true ?  'antirotation' : 'rotation' }  ml-2 text-base`" icon="chevron-down" /></p>
              </div>
-              <p class=" text-sm md:text-base text-left">
+              <p class=" text-sm md:text-base text-justify">
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec 
                    fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat 
                    lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
@@ -104,7 +104,7 @@
               <p class="text-lg md:text-xl font-semibold  ">Who can mint?</p> 
               <p><fa :class="` ${ dropDown4 === true ?  'antirotation' : 'rotation' }  ml-2 text-base`" icon="chevron-down" /></p>
              </div>
-              <p class="text-sm md:text-base text-left">
+              <p class="text-sm md:text-base text-justify">
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec 
                    fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat 
                    lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
