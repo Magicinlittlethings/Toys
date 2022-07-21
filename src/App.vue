@@ -196,6 +196,7 @@ methods:{
 </script>
 
 <style>
+@font-face { font-family: "migra"; src: url('./font/MigraExtrabold800.otf');}
 ::-webkit-scrollbar{
 width:12px;
 background:black;
