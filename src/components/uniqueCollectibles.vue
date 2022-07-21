@@ -5,7 +5,7 @@
           <img src="Group 5928.png" class=" h-24 w-72">
          
       </div> 
-       <p class="text-base text-gray-200  text-center lg:hidden  ">welcome to Toy Set ! Meet our collection of <span class="font-semibold px-1">2000 </span>unique Toy <br>faces. Support and Join our community, crazy adventures <br> and prices are waiting for you. </p>
+       <p class=" text-sm md:text-base text-gray-200  text-center lg:hidden px-6  ">welcome to Toy Set ! Meet our collection of <span class="font-semibold px-1">2000 </span>unique Toy <br>faces. Support and Join our community, crazy adventures <br> and prices are waiting for you. </p>
 
       <div class="marquee1 mt-12">
         <div class="content1 flex pt-4">

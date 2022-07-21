@@ -4,7 +4,7 @@
       <p class="strangerr text-4xl md:text-5xl lg:text-6xl  font-bold text-center mb-12 pt-12  ">
           Toy Face Origins
       </p>
-      <p class="text-left text-base lg:px-24 px-12">
+      <p class="text-left text-base lg:px-24 md:px-12 px-8">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec 
            fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat 
            lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent auctor purus luctus enim 

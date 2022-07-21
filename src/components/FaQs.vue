@@ -1,5 +1,5 @@
 <template>
-  <div class="px-10">
+  <div class="px-6 lg:px-10">
       <p class="strangerr text-4xl md:text-5xl lg:text-6xl  font-bold text-center mb-12 text-white">Frequently asked questions</p>
       <div class="hidden lg:block">
       <div class="grid grid-cols-3 gap-6 mt-20 ">
@@ -54,11 +54,11 @@
       </div>
       </div>
       
-      <div class="lg:hidden text-white bg-toyblackk px-6 border border-transparent rounded-md pb-6">
+      <div class="lg:hidden text-white bg-toyblackk px-3 md:px-6 border border-transparent rounded-md pb-6">
          <button @click="dropDown = !dropDown, dropDown4 = false, dropDown2 = false, dropDown1 = false, dropDown3 = false" :class="`${ dropDown === true ?  'full' : 'h-16' } py-6 relative overflow-hidden  px-4 border-b border-toyblack`">
              <div class="flex justify-between mb-5">
-              <p class="text-xl font-semibold  ">What are Toyfaces?</p> 
-              <p><fa :class="` ${ dropDown === true ?  'antirotation' : 'rotation' }  ml-2 text-base`" icon="chevron-down" /></p>
+              <p class="text-lg md:text-xl font-semibold  ">What are Toyfaces?</p> 
+              <p><fa :class="`${ dropDown === true ?  'antirotation' : 'rotation' }  ml-2 text-base`" icon="chevron-down" /></p>
              </div>
               <p class="text-left">
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec 
@@ -68,7 +68,7 @@
            </button>
          <button @click="dropDown1 = !dropDown1, dropDown4 = false, dropDown2 = false, dropDown3 = false, dropDown = false" :class="`${ dropDown1 === true ?  'full' : 'h-16' } py-6 relative overflow-hidden  px-4 border-b border-toyblack`">
              <div class="flex justify-between mb-5">
-              <p class="text-xl font-semibold  ">What are NFTs?</p> 
+              <p class="text-lg md:text-xl font-semibold  ">What are NFTs?</p> 
               <p><fa :class="` ${ dropDown1 === true ?  'antirotation' : 'rotation' }  ml-2 text-base`" icon="chevron-down" /></p>
              </div>
               <p class="text-left">
@@ -79,7 +79,7 @@
            </button>
            <button @click="dropDown2 = !dropDown2, dropDown4 = false, dropDown3 = false, dropDown1 = false, dropDown = false" :class="`${ dropDown2 === true ?  'full' : 'h-16' } py-6 relative overflow-hidden  px-4 border-b border-toyblack`">
              <div class="flex justify-between mb-5">
-              <p class="text-xl font-semibold  ">What are the benefits?</p> 
+              <p class="text-lg md:text-xl font-semibold  ">What are the benefits?</p> 
               <p><fa :class="` ${ dropDown2 === true ?  'antirotation' : 'rotation' }  ml-2 text-base`" icon="chevron-down" /></p>
              </div>
               <p class="text-left">
@@ -90,7 +90,7 @@
            </button>
            <button @click="dropDown3 = !dropDown3, dropDown4 = false, dropDown2 = false, dropDown1 = false, dropDown = false" :class="`${ dropDown3 === true ?  'full' : 'h-16' } py-6 relative overflow-hidden  px-4 border-b border-toyblack`">
              <div class="flex justify-between mb-5">
-              <p class="text-xl font-semibold  ">When does minting start?</p> 
+              <p class="text-lg md:text-xl font-semibold  ">When does minting start?</p> 
               <p><fa :class="` ${ dropDown3 === true ?  'antirotation' : 'rotation' }  ml-2 text-base`" icon="chevron-down" /></p>
              </div>
               <p class="text-left">
@@ -101,7 +101,7 @@
            </button>
            <button @click="dropDown4 = !dropDown4, dropDown3 = false, dropDown2 = false, dropDown1 = false, dropDown = false" :class="`${ dropDown4 === true ?  'full' : 'h-16' } py-6 relative overflow-hidden  px-4 border-b border-toyblack`">
              <div class="flex justify-between mb-5">
-              <p class="text-xl font-semibold  ">Who can mint?</p> 
+              <p class="text-lg md:text-xl font-semibold  ">Who can mint?</p> 
               <p><fa :class="` ${ dropDown4 === true ?  'antirotation' : 'rotation' }  ml-2 text-base`" icon="chevron-down" /></p>
              </div>
               <p class="text-left">
