@@ -32,7 +32,7 @@ export default {
 
 <style scoped>
 .strangerr { font-family: migra, sans-serif; }
-/*@font-face { font-family: migra; src: url('C:\Users\BLACKGIRL\Documents\toy - Copy\public\MigraExtrabold800.otf');}*/
+
 @media only screen and (max-width: 1023px) {
   
 }

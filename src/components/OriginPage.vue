@@ -115,5 +115,5 @@ to{
   transform:rotate(-180deg);
 }
 }
-/*@font-face { font-family: migra; src: url('C:\Users\BLACKGIRL\Documents\toy - Copy\public\MigraExtrabold800.otf');}*/
+
 </style>
