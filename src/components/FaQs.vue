@@ -180,5 +180,5 @@ to{
 }
 }
 .strangerr { font-family: migra, sans-serif; }
-@font-face { font-family: migra; src: url('MigraExtrabold800.otf');}
+@font-face { font-family: migra; src: url('C:\Users\BLACKGIRL\Documents\toy - Copy\public\font\MigraExtrabold800.otf');}
 </style>
